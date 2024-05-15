@@ -1,0 +1,22 @@
+.env
+env
+# Byte-compiled / optimized / DLL files
+*.pyc
+__pycache__/
+*.pyo
+
+# Temporary files
+*.swp
+*~
+
+# Django specific
+*.log
+*.pot
+*.pyc
+local_settings.py
+
+# Database
+db.sqlite3
+
+# Static files (usually not needed in version control)
+staticfiles/
